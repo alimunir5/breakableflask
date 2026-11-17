@@ -1,0 +1,4 @@
+.git
+__pycache__
+*.sav
+Dockerfile
